@@ -30,11 +30,10 @@ This application is fully contained and requires zero backend configuration.
 **Prerequisites:** Node.js installed on your local machine.
 
 1. **Clone the repository:**
-   ```bash
 Install dependencies:
-      npm install
+   ```bash npm install
 Spin up the local development server:
-      npm run dev
+   ```bash npm run dev
 
 View the prototype:
 Open http://localhost:3000 in your browser
