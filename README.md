@@ -3,7 +3,6 @@
 
 <div align="center">
 <img width="1200" height="475"  alt="image" src="https://github.com/user-attachments/assets/1a27aa3f-f0d5-4d92-8315-6aa0974e7bff" />
-" />
 </div>
 
 # Run and deploy your AI Studio app
