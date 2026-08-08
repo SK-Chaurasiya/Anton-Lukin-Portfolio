@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/de415540-862b-4c64-93a0-da0982f13fba" />
+<img width="1200" height="475" alt="GHBanner" src="[https://github.com/user-attachments/assets/de415540-862b-4c64-93a0-da0982f13fba](https://github.com/user-attachments/assets/de415540-862b-4c64-93a0-da0982f13fba)" />
 </div>
 
 # Anton Lukin | Interactive WebGL Portfolio Prototype
@@ -30,12 +30,10 @@ This application is fully contained and requires zero backend configuration.
 **Prerequisites:** Node.js installed on your local machine.
 
 1. **Clone the repository:**
-Install dependencies:
-   ```bash npm install
-Spin up the local development server:
-   ```bash npm run dev
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   cd YOUR_REPO_NAME
 
-View the prototype:
-Open http://localhost:3000 in your browser
-
-*(Note: Make sure to replace `YOUR_USERNAME/YOUR_REPO_NAME.git` in the clone command with your actual GitHub repository URL before you commit it!)*
+   git add README.md
+git commit -m "Update README with clean formatting"
+git push
