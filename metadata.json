@@ -1,6 +1,0 @@
-{
-  "name": "Anton Lukin Portfolio",
-  "description": "Redesigned immersive portfolio for Anton Lukin - Software Engineer & Drone Photographer",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
